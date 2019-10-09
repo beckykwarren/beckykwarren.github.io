@@ -119,3 +119,21 @@ body {
     box-shadow: 5px 5px 4px #D1C8B8;
   }
   
+  
+  
+  @media (max-width: 480px) {
+
+    #contact-info {
+      position: relative;
+      padding: 12px 12px;
+      width: 80%;
+      background: rgba(209, 200, 184, 0);
+      margin: 40px;
+    }
+    #main-bio {
+      width: 90%;
+      padding: 20px 20px;
+    }
+
+  }
+  
